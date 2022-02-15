@@ -50,7 +50,7 @@ class Database:
             # Style added in module 4
             #return f"{bal:.2f} USD"
 
-             Style added in module 3
+             #Style added in module 3
              return f"$ {bal:.2f}"
 
             # Original style in module 2
